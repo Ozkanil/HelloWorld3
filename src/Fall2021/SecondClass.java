@@ -1,2 +1,4 @@
-package Fall2021;public class SecondClass {
+package Fall2021;
+
+public class SecondClass {
 }
