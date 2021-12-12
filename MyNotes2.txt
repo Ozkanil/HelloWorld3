@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 
 
 Ozkan
+=======
+Ozkan Ilhan
+>>>>>>> f43534e6ec5647a089f5d0d1597d4f743ba4f7ef
