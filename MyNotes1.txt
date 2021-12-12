@@ -1,8 +1,7 @@
-//Test file.........
-<<<<<<< HEAD
+
+
 Learning.....
-=======
+
 Learning......
 Ozkan
 Ilhan
->>>>>>> 8d28671feeff12692e577c8b8c74d868184a09ba
